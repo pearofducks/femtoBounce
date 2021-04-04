@@ -1,0 +1,11 @@
+{
+  "name": "femtobounce",
+  "version": "1.0.0",
+  "description": "smallest possible debounce function",
+  "type": "module",
+  "main": "index.js",
+  "exports": "./index.js",
+  "repository": "https://github.com/pearofducks/femtoBounce",
+  "author": "Dave Honneffer <pearofducks@gmail.com>",
+  "license": "MIT"
+}
